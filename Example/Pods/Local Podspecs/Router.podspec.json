@@ -1,0 +1,29 @@
+{
+  "name": "Router",
+  "version": "0.0.1",
+  "summary": "Support midlleware Router",
+  "homepage": "https://github.com/cozelight/Router",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suyeol Jeon": "cozelight@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cozelight/Router.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/**/*.swift",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "swift_version": "5.0"
+}
